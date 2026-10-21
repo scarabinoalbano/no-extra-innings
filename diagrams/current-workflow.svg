@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" role="img" aria-label="Today, two steps send the code back to development, again and again" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8c959f"/></marker>
+<marker id="arrow-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#cf222e"/></marker>
+</defs>
+<rect x="1" y="1" width="758" height="638" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="24" y="34" font-size="15" font-weight="600" fill="#1f2328" text-anchor="start">Today, two steps send the code back to development, again and again</text>
+<rect x="24" y="56" width="712" height="56" fill="#f6f8fa"/>
+<rect x="24" y="56" width="712" height="500" fill="none" stroke="#d0d7de"/>
+<path d="M202 56V556M558 56V556" fill="none" stroke="#d0d7de"/>
+<path d="M380 56 V556" fill="none" stroke="#d0d7de"/>
+<text x="113" y="80" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Product Owner</text>
+<text x="113" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Writes and accepts</text>
+<text x="291" y="80" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Developer</text>
+<text x="291" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Writes the code</text>
+<text x="469" y="80" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Reviewers</text>
+<text x="469" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Team, cross-team and AI</text>
+<text x="647" y="80" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">QA</text>
+<text x="647" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Tests the code</text>
+<path d="M113 174V224H214" fill="none" stroke="#8c959f" stroke-width="1.25" marker-end="url(#arrow)"/>
+<path d="M291 246V296H392" fill="none" stroke="#8c959f" stroke-width="1.25" marker-end="url(#arrow)"/>
+<path d="M469 318V368H570" fill="none" stroke="#8c959f" stroke-width="1.25" marker-end="url(#arrow)"/>
+<path d="M647 390V440H368" fill="none" stroke="#8c959f" stroke-width="1.25" marker-end="url(#arrow)"/>
+<path d="M291 462V512H190" fill="none" stroke="#8c959f" stroke-width="1.25" marker-end="url(#arrow)"/>
+<rect x="36" y="130.0" width="154" height="44" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="113" y="156" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Story writing</text>
+<rect x="214" y="202.0" width="154" height="44" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="291" y="228" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Development</text>
+<rect x="392" y="274.0" width="154" height="44" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="469" y="300" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Code review</text>
+<rect x="570" y="346.0" width="154" height="44" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="647" y="372" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Testing</text>
+<rect x="214" y="418.0" width="154" height="44" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="291" y="444" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Merge</text>
+<rect x="36" y="490.0" width="154" height="44" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="113" y="516" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Acceptance</text>
+<path d="M469 274V224H368" fill="none" stroke="#cf222e" stroke-width="2" marker-end="url(#arrow-red)"/>
+<path d="M647 346V188H321V202" fill="none" stroke="#cf222e" stroke-width="2" marker-end="url(#arrow-red)"/>
+<circle cx="489" cy="250" r="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.5"/><text x="489" y="254" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">1</text>
+<circle cx="667" cy="268" r="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.5"/><text x="667" y="272" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">2</text>
+<circle cx="33" cy="584" r="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.5"/><text x="33" y="588" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">1</text>
+<text x="52" y="588" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Code review → Development: each round of comments, from people or AI, sends the code back for fixes</text>
+<circle cx="33" cy="610" r="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.5"/><text x="33" y="614" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">2</text>
+<text x="52" y="614" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Testing → Development: each bug goes back to development and is tested again</text>
+</svg>

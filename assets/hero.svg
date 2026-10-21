@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-label="Two developers on a baseball mound: the Starter, in a hoodie with headphones, hands the ball to the Closer, in a cap with a coffee mug, under a scoreboard that reads No Extra Innings" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <clipPath id="card">
+      <rect width="1200" height="560" rx="24"/>
+    </clipPath>
+    <g id="mitt">
+      <path d="M-18 -6 Q-22 -26 -8 -28 Q-2 -34 6 -28 Q16 -32 20 -20 Q26 -8 18 10 Q8 24 -6 20 Q-20 14 -18 -6 Z" fill="#9a5b2e" stroke="#6e3f1f" stroke-width="2"/>
+      <path d="M-6 -24 L-4 -6 M6 -26 L6 -6" fill="none" stroke="#6e3f1f" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <!-- Sky -->
+    <rect width="1200" height="560" fill="#e6f3ff"/>
+    <g fill="#ffffff">
+      <ellipse cx="250" cy="70" rx="48" ry="16"/>
+      <ellipse cx="282" cy="60" rx="30" ry="16"/>
+      <ellipse cx="960" cy="92" rx="52" ry="16"/>
+      <ellipse cx="928" cy="82" rx="30" ry="15"/>
+    </g>
+
+    <!-- Light towers -->
+    <g>
+      <rect x="86" y="96" width="8" height="140" fill="#9aa4b2"/>
+      <rect x="56" y="60" width="68" height="40" rx="4" fill="#4b5563"/>
+      <g fill="#fff3b0">
+        <circle cx="68" cy="72" r="5"/><circle cx="84" cy="72" r="5"/><circle cx="100" cy="72" r="5"/><circle cx="116" cy="72" r="5"/>
+        <circle cx="68" cy="88" r="5"/><circle cx="84" cy="88" r="5"/><circle cx="100" cy="88" r="5"/><circle cx="116" cy="88" r="5"/>
+      </g>
+      <rect x="1106" y="96" width="8" height="140" fill="#9aa4b2"/>
+      <rect x="1076" y="60" width="68" height="40" rx="4" fill="#4b5563"/>
+      <g fill="#fff3b0">
+        <circle cx="1088" cy="72" r="5"/><circle cx="1104" cy="72" r="5"/><circle cx="1120" cy="72" r="5"/><circle cx="1136" cy="72" r="5"/>
+        <circle cx="1088" cy="88" r="5"/><circle cx="1104" cy="88" r="5"/><circle cx="1120" cy="88" r="5"/><circle cx="1136" cy="88" r="5"/>
+      </g>
+    </g>
+
+    <!-- Scoreboard -->
+    <g>
+      <rect x="450" y="160" width="8" height="74" fill="#18324a"/>
+      <rect x="742" y="160" width="8" height="74" fill="#18324a"/>
+      <rect x="400" y="36" width="400" height="128" rx="12" fill="#18324a"/>
+      <rect x="410" y="46" width="380" height="108" rx="8" fill="none" stroke="#2c4f70" stroke-width="2"/>
+      <text x="600" y="92" text-anchor="middle" font-size="30" font-weight="800" letter-spacing="2" fill="#ffd166">NO EXTRA INNINGS</text>
+      <text x="600" y="130" text-anchor="middle" font-size="16" font-weight="600" letter-spacing="1" fill="#9fd3ff" font-family="'DejaVu Sans Mono', Menlo, Consolas, monospace">INNING 9 · TESTS ✓ · REWORK 0</text>
+    </g>
+
+    <!-- Outfield wall -->
+    <rect x="0" y="230" width="1200" height="54" fill="#4f9d6e"/>
+    <rect x="0" y="230" width="1200" height="8" fill="#ffd166"/>
+
+    <!-- Grass with mowing stripes -->
+    <rect x="0" y="284" width="1200" height="276" fill="#7cc46a"/>
+    <g fill="#89cd77">
+      <rect x="0" y="320" width="1200" height="40"/>
+      <rect x="0" y="400" width="1200" height="40"/>
+      <rect x="0" y="480" width="1200" height="40"/>
+    </g>
+
+    <!-- Mound -->
+    <ellipse cx="600" cy="508" rx="300" ry="62" fill="#d39a63"/>
+    <ellipse cx="600" cy="502" rx="270" ry="48" fill="#dcaa74"/>
+    <rect x="575" y="482" width="50" height="9" rx="2" fill="#ffffff"/>
+
+    <!-- Laptop with passing tests -->
+    <g>
+      <rect x="306" y="440" width="76" height="50" rx="5" fill="#22272e"/>
+      <text x="344" y="476" text-anchor="middle" font-size="30" font-weight="800" fill="#3fb950">✓</text>
+      <path d="M296 490 L392 490 L402 500 L286 500 Z" fill="#c3c9d4"/>
+    </g>
+
+    <!-- Speech bubbles -->
+    <g>
+      <rect x="150" y="150" width="230" height="54" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+      <path d="M316 202 L352 202 L428 234 Z" fill="#ffffff" stroke="#d0d7de" stroke-width="2" stroke-linejoin="round"/>
+      <rect x="312" y="194" width="44" height="9" fill="#ffffff"/>
+      <text x="265" y="184" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2328">Tests are green.</text>
+
+      <rect x="820" y="150" width="230" height="54" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+      <path d="M848 202 L884 202 L772 234 Z" fill="#ffffff" stroke="#d0d7de" stroke-width="2" stroke-linejoin="round"/>
+      <rect x="844" y="194" width="44" height="9" fill="#ffffff"/>
+      <text x="935" y="184" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2328">I'll close it out.</text>
+    </g>
+
+    <!-- The Starter: hoodie, headphones, glasses, beard -->
+    <g transform="translate(480 0)">
+      <path d="M-30 300 Q-36 270 0 268 Q36 270 30 300" fill="none" stroke="#22272e" stroke-width="6" stroke-linecap="round"/>
+      <rect x="-38" y="400" width="30" height="104" rx="10" fill="#2f3b52"/>
+      <rect x="8" y="400" width="30" height="104" rx="10" fill="#2f3b52"/>
+      <ellipse cx="-18" cy="510" rx="24" ry="10" fill="#ffffff" stroke="#c9d1d9" stroke-width="2"/>
+      <ellipse cx="30" cy="510" rx="24" ry="10" fill="#ffffff" stroke="#c9d1d9" stroke-width="2"/>
+      <path d="M-44 316 Q-62 352 -62 398" fill="none" stroke="#6a50f0" stroke-width="22" stroke-linecap="round"/>
+      <path d="M-50 320 Q-50 298 -28 298 L28 298 Q50 298 50 320 L46 414 Q0 420 -46 414 Z" fill="#7b61ff"/>
+      <path d="M-30 298 Q0 316 30 298 Q20 290 0 290 Q-20 290 -30 298 Z" fill="#6a50f0"/>
+      <path d="M-9 304 L-11 334 M9 304 L11 334" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+      <text x="0" y="358" text-anchor="middle" font-size="14" font-weight="800" letter-spacing="1" fill="#ffffff">STARTER</text>
+      <path d="M-36 372 L36 372 L42 402 L-42 402 Z" fill="#6a50f0"/>
+      <use href="#mitt" transform="translate(-64 414)"/>
+      <path d="M44 316 Q76 346 104 336" fill="none" stroke="#6a50f0" stroke-width="22" stroke-linecap="round"/>
+      <circle cx="110" cy="334" r="11" fill="#f2c4a0"/>
+      <rect x="-9" y="280" width="18" height="18" fill="#e3ad87"/>
+      <rect x="-38" y="288" width="14" height="22" rx="6" fill="#22272e"/>
+      <rect x="24" y="288" width="14" height="22" rx="6" fill="#22272e"/>
+      <circle cx="0" cy="255" r="34" fill="#f2c4a0"/>
+      <circle cx="-32" cy="258" r="7" fill="#e3ad87"/>
+      <path d="M-34 244 Q-36 211 0 211 Q34 211 36 240 Q22 228 2 231 Q-16 233 -28 246 Z" fill="#3b2a20"/>
+      <path d="M-29 268 Q-27 305 3 306 Q31 305 32 268 Q27 291 3 292 Q-21 291 -29 268 Z" fill="#3b2a20"/>
+      <path d="M2 269 Q14 262 26 269 Q14 272 2 269 Z" fill="#3b2a20"/>
+      <path d="M-6 238 L8 236 M14 236 L28 238" fill="none" stroke="#3b2a20" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="2" cy="251" r="10" fill="#ffffff" fill-opacity="0.35" stroke="#1f2328" stroke-width="3"/>
+      <circle cx="22" cy="251" r="10" fill="#ffffff" fill-opacity="0.35" stroke="#1f2328" stroke-width="3"/>
+      <path d="M-8 250 L-30 254" fill="none" stroke="#1f2328" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="5" cy="252" r="3" fill="#1f2328"/>
+      <circle cx="25" cy="252" r="3" fill="#1f2328"/>
+      <path d="M8 277 Q14 282 20 277" fill="none" stroke="#7a3e2b" stroke-width="3" stroke-linecap="round"/>
+    </g>
+
+    <!-- The Closer: cap, ponytail, glasses, coffee -->
+    <g transform="translate(720 0)">
+      <path d="M30 232 Q74 236 70 282 Q66 314 44 326 Q56 292 42 266 Q36 252 28 248 Z" fill="#2b1d16"/>
+      <rect x="-38" y="400" width="30" height="74" rx="10" fill="#eef1f5" stroke="#c9d1d9" stroke-width="2"/>
+      <rect x="8" y="400" width="30" height="74" rx="10" fill="#eef1f5" stroke="#c9d1d9" stroke-width="2"/>
+      <rect x="-36" y="466" width="26" height="40" rx="6" fill="#1d3557"/>
+      <rect x="10" y="466" width="26" height="40" rx="6" fill="#1d3557"/>
+      <ellipse cx="-30" cy="510" rx="24" ry="10" fill="#1f2328"/>
+      <ellipse cx="18" cy="510" rx="24" ry="10" fill="#1f2328"/>
+      <path d="M44 316 Q66 352 50 384" fill="none" stroke="#a8673f" stroke-width="18" stroke-linecap="round"/>
+      <path d="M44 316 Q54 332 58 342" fill="none" stroke="#1d3557" stroke-width="24" stroke-linecap="round"/>
+      <path d="M-50 320 Q-50 298 -28 298 L28 298 Q50 298 50 320 L46 414 Q0 420 -46 414 Z" fill="#1d3557"/>
+      <rect x="-46" y="398" width="92" height="10" fill="#14263f"/>
+      <path d="M-16 298 L0 318 L16 298" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round"/>
+      <text x="0" y="358" text-anchor="middle" font-size="14" font-weight="800" letter-spacing="1" fill="#ffffff">CLOSER</text>
+      <g transform="translate(46 390)">
+        <path d="M12 -6 Q22 -6 22 2 Q22 10 12 10" fill="none" stroke="#c9d1d9" stroke-width="3"/>
+        <rect x="-12" y="-14" width="24" height="28" rx="4" fill="#ffffff" stroke="#c9d1d9" stroke-width="2"/>
+        <path d="M-4 -20 Q-8 -27 -4 -34 M4 -20 Q0 -27 4 -34" fill="none" stroke="#9aa4b2" stroke-width="2" stroke-linecap="round"/>
+      </g>
+      <path d="M-44 316 Q-56 330 -62 336" fill="none" stroke="#1d3557" stroke-width="24" stroke-linecap="round"/>
+      <path d="M-62 336 Q-76 342 -86 336" fill="none" stroke="#a8673f" stroke-width="18" stroke-linecap="round"/>
+      <use href="#mitt" transform="translate(-98 330) scale(-1 1)"/>
+      <rect x="-9" y="280" width="18" height="20" fill="#965a35"/>
+      <circle cx="0" cy="255" r="34" fill="#a8673f"/>
+      <circle cx="32" cy="258" r="7" fill="#965a35"/>
+      <circle cx="33" cy="267" r="2.5" fill="#ffd166"/>
+      <path d="M28 236 Q40 250 35 270 L29 260 Q31 248 24 240 Z" fill="#2b1d16"/>
+      <path d="M-36 238 Q-36 200 0 200 Q36 200 36 238 Z" fill="#1d3557"/>
+      <path d="M-34 234 L-72 240 Q-66 248 -34 242 Z" fill="#14263f"/>
+      <circle cx="0" cy="201" r="3" fill="#14263f"/>
+      <text x="4" y="228" text-anchor="middle" font-size="13" font-weight="800" fill="#ffd166" font-family="'DejaVu Sans Mono', Menlo, Consolas, monospace">&lt;/&gt;</text>
+      <circle cx="40" cy="238" r="4" fill="#ffd166"/>
+      <path d="M-30 243 L-16 241 M-10 241 L4 243" fill="none" stroke="#2b1d16" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="-22" cy="255" r="10" fill="#ffffff" fill-opacity="0.35" stroke="#8b1e3f" stroke-width="3"/>
+      <circle cx="-2" cy="255" r="10" fill="#ffffff" fill-opacity="0.35" stroke="#8b1e3f" stroke-width="3"/>
+      <path d="M8 254 L30 258" fill="none" stroke="#8b1e3f" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="-25" cy="256" r="3" fill="#1f2328"/>
+      <circle cx="-5" cy="256" r="3" fill="#1f2328"/>
+      <path d="M-24 275 Q-16 283 -8 275" fill="none" stroke="#5e2a17" stroke-width="3" stroke-linecap="round"/>
+    </g>
+
+    <!-- The ball, mid-handoff -->
+    <g>
+      <circle cx="601" cy="332" r="12" fill="#ffffff" stroke="#c9d1d9" stroke-width="2"/>
+      <path d="M593 324 Q598 332 593 340 M609 324 Q604 332 609 340" fill="none" stroke="#d62828" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

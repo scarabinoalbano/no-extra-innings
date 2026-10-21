@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 538" width="760" height="538" role="img" aria-label="Closing takes seniors a few planned half-days, not the sprint" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8c959f"/></marker>
+<marker id="arrow-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#cf222e"/></marker>
+</defs>
+<rect x="1" y="1" width="758" height="536" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="24" y="28" font-size="15" font-weight="600" fill="#1f2328" text-anchor="start">Closing takes seniors a few planned half-days, not the sprint</text>
+<text x="24" y="48" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Example sprint: 10 working days, 7 people and 12 stories, each closed by someone other than its Starter</text>
+<text x="341.5" y="80" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">Week 1</text>
+<text x="604.5" y="80" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">Week 2</text>
+<text x="236.3" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Day 1</text>
+<text x="288.9" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Day 2</text>
+<text x="341.5" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Day 3</text>
+<text x="394.1" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Day 4</text>
+<text x="446.7" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Day 5</text>
+<text x="499.3" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Day 6</text>
+<text x="551.9" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Day 7</text>
+<text x="604.5" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Day 8</text>
+<text x="657.1" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Day 9</text>
+<text x="709.7" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Day 10</text>
+<line x1="210.0" x2="210.0" y1="110" y2="418" stroke="#d0d7de" stroke-width="1"/>
+<line x1="262.6" x2="262.6" y1="110" y2="418" stroke="#d0d7de" stroke-width="1"/>
+<line x1="315.2" x2="315.2" y1="110" y2="418" stroke="#d0d7de" stroke-width="1"/>
+<line x1="367.8" x2="367.8" y1="110" y2="418" stroke="#d0d7de" stroke-width="1"/>
+<line x1="420.4" x2="420.4" y1="110" y2="418" stroke="#d0d7de" stroke-width="1"/>
+<line x1="473.0" x2="473.0" y1="110" y2="418" stroke="#8c959f" stroke-width="1.25"/>
+<line x1="525.6" x2="525.6" y1="110" y2="418" stroke="#d0d7de" stroke-width="1"/>
+<line x1="578.2" x2="578.2" y1="110" y2="418" stroke="#d0d7de" stroke-width="1"/>
+<line x1="630.8" x2="630.8" y1="110" y2="418" stroke="#d0d7de" stroke-width="1"/>
+<line x1="683.4" x2="683.4" y1="110" y2="418" stroke="#d0d7de" stroke-width="1"/>
+<line x1="736.0" x2="736.0" y1="110" y2="418" stroke="#d0d7de" stroke-width="1"/>
+<line x1="24" x2="736" y1="110" y2="110" stroke="#8c959f" stroke-width="1.25"/>
+<line x1="24" x2="736" y1="154" y2="154" stroke="#d0d7de"/>
+<line x1="24" x2="736" y1="198" y2="198" stroke="#d0d7de"/>
+<line x1="24" x2="736" y1="242" y2="242" stroke="#d0d7de"/>
+<line x1="24" x2="736" y1="286" y2="286" stroke="#d0d7de"/>
+<line x1="24" x2="736" y1="330" y2="330" stroke="#d0d7de"/>
+<line x1="24" x2="736" y1="374" y2="374" stroke="#d0d7de"/>
+<line x1="24" x2="736" y1="418" y2="418" stroke="#d0d7de"/>
+<rect x="213.0" y="120" width="151.8" height="24" rx="6" fill="#ffffff"/>
+<rect x="213.0" y="120" width="151.8" height="24" rx="6" fill="#bc4c00" fill-opacity="0.16" stroke="#bc4c00" stroke-width="1.25"/>
+<text x="288.9" y="136" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">S1 · Low</text>
+<rect x="370.8" y="120" width="151.8" height="24" rx="6" fill="#ffffff"/>
+<rect x="370.8" y="120" width="151.8" height="24" rx="6" fill="#bc4c00" fill-opacity="0.16" stroke="#bc4c00" stroke-width="1.25"/>
+<text x="446.7" y="136" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">S4 · Medium</text>
+<rect x="528.6" y="120" width="151.8" height="24" rx="6" fill="#ffffff"/>
+<rect x="528.6" y="120" width="151.8" height="24" rx="6" fill="#bc4c00" fill-opacity="0.16" stroke="#bc4c00" stroke-width="1.25"/>
+<text x="604.5" y="136" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">S7 · Low</text>
+<rect x="213.0" y="164" width="204.4" height="24" rx="6" fill="#ffffff"/>
+<rect x="213.0" y="164" width="204.4" height="24" rx="6" fill="#bc4c00" fill-opacity="0.16" stroke="#bc4c00" stroke-width="1.25"/>
+<text x="315.2" y="180" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">S2 · Low</text>
+<rect x="423.4" y="164" width="204.4" height="24" rx="6" fill="#ffffff"/>
+<rect x="423.4" y="164" width="204.4" height="24" rx="6" fill="#bc4c00" fill-opacity="0.16" stroke="#bc4c00" stroke-width="1.25"/>
+<text x="525.6" y="180" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">S5 · Medium</text>
+<rect x="213.0" y="208" width="151.8" height="24" rx="6" fill="#ffffff"/>
+<rect x="213.0" y="208" width="151.8" height="24" rx="6" fill="#bc4c00" fill-opacity="0.16" stroke="#bc4c00" stroke-width="1.25"/>
+<text x="288.9" y="224" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">S3 · Low</text>
+<rect x="370.8" y="208" width="151.8" height="24" rx="6" fill="#ffffff"/>
+<rect x="370.8" y="208" width="151.8" height="24" rx="6" fill="#bc4c00" fill-opacity="0.16" stroke="#bc4c00" stroke-width="1.25"/>
+<text x="446.7" y="224" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">S6 · Low</text>
+<rect x="528.6" y="208" width="151.8" height="24" rx="6" fill="#ffffff"/>
+<rect x="528.6" y="208" width="151.8" height="24" rx="6" fill="#bc4c00" fill-opacity="0.16" stroke="#bc4c00" stroke-width="1.25"/>
+<text x="604.5" y="224" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">S8 · Low</text>
+<rect x="213.0" y="252" width="204.4" height="24" rx="6" fill="#ffffff"/>
+<rect x="213.0" y="252" width="204.4" height="24" rx="6" fill="#bc4c00" fill-opacity="0.16" stroke="#bc4c00" stroke-width="1.25"/>
+<text x="315.2" y="268" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">S9 · High</text>
+<rect x="527.6" y="252" width="22.3" height="24" rx="6" fill="#ffffff"/>
+<rect x="527.6" y="252" width="22.3" height="24" rx="6" fill="#0969da" fill-opacity="0.16" stroke="#0969da" stroke-width="1.25"/>
+<text x="538.8" y="268" font-size="10.5" font-weight="600" fill="#1f2328" text-anchor="middle">S4</text>
+<rect x="213.0" y="296" width="204.4" height="24" rx="6" fill="#ffffff"/>
+<rect x="213.0" y="296" width="204.4" height="24" rx="6" fill="#bc4c00" fill-opacity="0.16" stroke="#bc4c00" stroke-width="1.25"/>
+<text x="315.2" y="312" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">S10 · High</text>
+<rect x="422.4" y="296" width="22.3" height="24" rx="6" fill="#ffffff"/>
+<rect x="422.4" y="296" width="22.3" height="24" rx="6" fill="#0969da" fill-opacity="0.16" stroke="#0969da" stroke-width="1.25"/>
+<text x="433.6" y="312" font-size="10.5" font-weight="600" fill="#1f2328" text-anchor="middle">S9</text>
+<rect x="632.8" y="296" width="22.3" height="24" rx="6" fill="#ffffff"/>
+<rect x="632.8" y="296" width="22.3" height="24" rx="6" fill="#0969da" fill-opacity="0.16" stroke="#0969da" stroke-width="1.25"/>
+<text x="644.0" y="312" font-size="10.5" font-weight="600" fill="#1f2328" text-anchor="middle">S5</text>
+<rect x="213.0" y="340" width="204.4" height="24" rx="6" fill="#ffffff"/>
+<rect x="213.0" y="340" width="204.4" height="24" rx="6" fill="#bc4c00" fill-opacity="0.16" stroke="#bc4c00" stroke-width="1.25"/>
+<text x="315.2" y="356" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">S11 · Medium</text>
+<rect x="422.4" y="340" width="22.3" height="24" rx="6" fill="#ffffff"/>
+<rect x="422.4" y="340" width="22.3" height="24" rx="6" fill="#0969da" fill-opacity="0.16" stroke="#0969da" stroke-width="1.25"/>
+<text x="433.6" y="356" font-size="10.5" font-weight="600" fill="#1f2328" text-anchor="middle">S12</text>
+<rect x="213.0" y="384" width="204.4" height="24" rx="6" fill="#ffffff"/>
+<rect x="213.0" y="384" width="204.4" height="24" rx="6" fill="#bc4c00" fill-opacity="0.16" stroke="#bc4c00" stroke-width="1.25"/>
+<text x="315.2" y="400" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">S12 · Medium</text>
+<rect x="422.4" y="384" width="22.3" height="24" rx="6" fill="#ffffff"/>
+<rect x="422.4" y="384" width="22.3" height="24" rx="6" fill="#0969da" fill-opacity="0.16" stroke="#0969da" stroke-width="1.25"/>
+<text x="433.6" y="400" font-size="10.5" font-weight="600" fill="#1f2328" text-anchor="middle">S11</text>
+<rect x="475.0" y="384" width="22.3" height="24" rx="6" fill="#ffffff"/>
+<rect x="475.0" y="384" width="22.3" height="24" rx="6" fill="#0969da" fill-opacity="0.16" stroke="#0969da" stroke-width="1.25"/>
+<text x="486.1" y="400" font-size="10.5" font-weight="600" fill="#1f2328" text-anchor="middle">S10</text>
+<rect x="375.8" y="211" width="37" height="18" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.25"/><path d="M382.8 220l2.5 2.5l4.5-5" fill="none" stroke="#1a7f37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><text x="393.8" y="224" font-size="10.5" font-weight="600" fill="#1f2328" text-anchor="start">S1</text>
+<rect x="481.0" y="211" width="37" height="18" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.25"/><path d="M488.0 220l2.5 2.5l4.5-5" fill="none" stroke="#1a7f37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><text x="499.0" y="224" font-size="10.5" font-weight="600" fill="#1f2328" text-anchor="start">S2</text>
+<rect x="691.4" y="211" width="37" height="18" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.25"/><path d="M698.4 220l2.5 2.5l4.5-5" fill="none" stroke="#1a7f37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><text x="709.4" y="224" font-size="10.5" font-weight="600" fill="#1f2328" text-anchor="start">S7</text>
+<rect x="375.8" y="255" width="37" height="18" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.25"/><path d="M382.8 264l2.5 2.5l4.5-5" fill="none" stroke="#1a7f37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><text x="393.8" y="268" font-size="10.5" font-weight="600" fill="#1f2328" text-anchor="start">S3</text>
+<rect x="533.6" y="343" width="37" height="18" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.25"/><path d="M540.6 352l2.5 2.5l4.5-5" fill="none" stroke="#1a7f37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><text x="551.6" y="356" font-size="10.5" font-weight="600" fill="#1f2328" text-anchor="start">S6</text>
+<rect x="691.4" y="343" width="37" height="18" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.25"/><path d="M698.4 352l2.5 2.5l4.5-5" fill="none" stroke="#1a7f37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><text x="709.4" y="356" font-size="10.5" font-weight="600" fill="#1f2328" text-anchor="start">S8</text>
+<text x="24" y="129" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Ana</text>
+<text x="24" y="145" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">QA · Starter</text>
+<text x="24" y="173" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Bruno</text>
+<text x="24" y="189" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Junior dev · Starter</text>
+<text x="24" y="217" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Carla</text>
+<text x="24" y="233" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Mid-level dev · Starter</text>
+<text x="24" y="261" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Diego</text>
+<text x="24" y="277" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Senior dev · both roles</text>
+<text x="24" y="305" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Elena</text>
+<text x="24" y="321" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Senior dev · both roles</text>
+<text x="24" y="349" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Fran</text>
+<text x="24" y="365" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Senior dev · both roles</text>
+<text x="24" y="393" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Gabi</text>
+<text x="24" y="409" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Senior dev · both roles</text>
+<rect x="24" y="440" width="14" height="14" rx="3" fill="#bc4c00" fill-opacity="0.16" stroke="#bc4c00" stroke-width="1.25"/>
+<text x="44" y="451" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Starter: tests and coding with AI, with the story's risk level</text>
+<rect x="440" y="440" width="14" height="14" rx="3" fill="#0969da" fill-opacity="0.16" stroke="#0969da" stroke-width="1.25"/>
+<text x="460" y="451" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Closer: refinement slot, half a day</text>
+<rect x="24.0" y="460" width="28" height="18" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.25"/><path d="M34.5 469l2.5 2.5l4.5-5" fill="none" stroke="#1a7f37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="60" y="473" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Quick review of a low-risk story: one pass of up to 30 minutes, by a mid-level or senior developer</text>
+<text x="24" y="495" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Not shown: kickoffs and walkthroughs, under an hour each</text>
+<text x="24" y="515" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Gaps: other work, design and mentoring</text>
+</svg>

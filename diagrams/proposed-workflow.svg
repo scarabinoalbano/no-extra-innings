@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 916" width="760" height="916" role="img" aria-label="With No Extra Innings, no step sends the code back to development" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8c959f"/></marker>
+<marker id="arrow-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#cf222e"/></marker>
+</defs>
+<rect x="1" y="1" width="758" height="914" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="24" y="34" font-size="15" font-weight="600" fill="#1f2328" text-anchor="start">With No Extra Innings, no step sends the code back to development</text>
+<rect x="24" y="56" width="712" height="56" fill="#f6f8fa"/>
+<rect x="24" y="56" width="712" height="716" fill="none" stroke="#d0d7de"/>
+<path d="M202 56V772M558 56V772" fill="none" stroke="#d0d7de"/>
+<path d="M380 56 V202 M380 246 V562 M380 606 V772" fill="none" stroke="#d0d7de"/>
+<text x="113" y="80" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Product Owner</text>
+<text x="113" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Writes and accepts</text>
+<text x="291" y="80" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Starter</text>
+<text x="291" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Any profile</text>
+<text x="469" y="80" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Closer</text>
+<text x="469" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Senior developer</text>
+<text x="647" y="80" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Cross-team reviewers</text>
+<text x="647" y="98" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle">Same as today</text>
+<path d="M113 174V224H214" fill="none" stroke="#8c959f" stroke-width="1.25" marker-end="url(#arrow)"/>
+<path d="M291 246V274" fill="none" stroke="#8c959f" stroke-width="1.25" marker-end="url(#arrow)"/>
+<path d="M291 318V346" fill="none" stroke="#8c959f" stroke-width="1.25" marker-end="url(#arrow)"/>
+<path d="M291 390V440H392" fill="none" stroke="#8c959f" stroke-width="1.25" marker-end="url(#arrow)"/>
+<path d="M469 462V512H570" fill="none" stroke="#8c959f" stroke-width="1.25" marker-end="url(#arrow)"/>
+<path d="M647 534V584H546" fill="none" stroke="#8c959f" stroke-width="1.25" marker-end="url(#arrow)"/>
+<path d="M291 606V634" fill="none" stroke="#8c959f" stroke-width="1.25" marker-end="url(#arrow)"/>
+<path d="M291 678V728H190" fill="none" stroke="#8c959f" stroke-width="1.25" marker-end="url(#arrow)"/>
+<rect x="36" y="130.0" width="154" height="44" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="113" y="156" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Story writing</text>
+<rect x="214" y="202.0" width="332" height="44" rx="8" fill="#0969da" fill-opacity="0.12" stroke="#0969da" stroke-width="2"/><text x="380" y="228" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Story kickoff</text>
+<rect x="214" y="274.0" width="154" height="44" rx="8" fill="#0969da" fill-opacity="0.12" stroke="#0969da" stroke-width="2"/><text x="291" y="300" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Write tests first</text>
+<rect x="214" y="346.0" width="154" height="44" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="291" y="372" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Coding with AI</text>
+<rect x="392" y="418.0" width="154" height="44" rx="8" fill="#0969da" fill-opacity="0.12" stroke="#0969da" stroke-width="2"/><text x="469" y="444" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Code refinement</text>
+<rect x="570" y="490.0" width="154" height="44" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="647" y="516" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Cross-team review</text>
+<rect x="214" y="562.0" width="332" height="44" rx="8" fill="#0969da" fill-opacity="0.12" stroke="#0969da" stroke-width="2"/><text x="380" y="588" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Code walkthrough</text>
+<rect x="214" y="634.0" width="154" height="44" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="291" y="660" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Merge</text>
+<rect x="36" y="706.0" width="154" height="44" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="113" y="732" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Acceptance</text>
+<path d="M647 490V440H546" fill="none" stroke="#8c959f" stroke-width="1.25" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<path d="M291 407L299 415L291 423L283 415Z" fill="#1a7f37" fill-opacity="0.18" stroke="#1a7f37" stroke-width="1.5"/>
+<text x="305" y="419" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">AI review</text>
+<path d="M469 479L477 487L469 495L461 487Z" fill="#1a7f37" fill-opacity="0.18" stroke="#1a7f37" stroke-width="1.5"/>
+<text x="483" y="491" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">AI review</text>
+<rect x="24" y="794" width="14" height="14" rx="3" fill="#0969da" fill-opacity="0.12" stroke="#0969da" stroke-width="2"/>
+<text x="46" y="805" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">New steps compared with the current workflow</text>
+<path d="M24 823H38" fill="none" stroke="#8c959f" stroke-width="1.25" stroke-dasharray="4 4"/>
+<text x="46" y="827" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">If the cross-team review asks for technical changes, they go back to refinement, not development</text>
+<path d="M31 837L39 845L31 853L23 845Z" fill="#1a7f37" fill-opacity="0.18" stroke="#1a7f37" stroke-width="1.5"/>
+<text x="46" y="849" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">AI review gates: before the handoff (Starter) and in CI before cross-team review</text>
+<text x="31" y="871" font-size="11.5" font-weight="600" fill="#1f2328" text-anchor="middle">✓</text>
+<text x="46" y="871" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Tests from “Write tests first” run in every later step</text>
+<circle cx="31" cy="889" r="4" fill="#59636e"/>
+<text x="46" y="893" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start">Low-risk stories get a 30-minute quick review by a mid-level or senior developer instead of a Closer</text>
+</svg>
